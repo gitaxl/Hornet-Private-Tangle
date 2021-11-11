@@ -1,6 +1,5 @@
-
 import iota_client
-import secret
+import secret 
 
 SEED = secret.Seed
 
