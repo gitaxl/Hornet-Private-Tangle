@@ -17,4 +17,6 @@
 
     Install your Private Tangle as usual 
 
-    Enjoy 
+    --
+    Create secret.py and create a variable named "Seed" with value of your previously generated seed
+    Send tokens with iota_sendtkns.py 
